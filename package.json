@@ -1,0 +1,22 @@
+{
+  "name": "alexav2test",
+  "version": "1.0.0",
+  "description": "alexa v2 sdk playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryandens/AlexaV2Test.git"
+  },
+  "keywords": [
+    "alexa"
+  ],
+  "author": "Ryan Dens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryandens/AlexaV2Test/issues"
+  },
+  "homepage": "https://github.com/ryandens/AlexaV2Test#readme"
+}
